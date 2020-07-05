@@ -37,10 +37,8 @@ a string that will be printed right above the
 + **DESCRIPTION**  
 another string which explains what the character is doing and what (s)he sees around him/her.
 + the **GAME STATUS**  
-an integer which will be **_EVERYTHING BUT 0_** if by reaching that _Scene_ the player completes (or looses) the game.  
+an integer which will be **_ANYTHING BUT 0_** if by reaching that _Scene_ the player completes (or looses) the game.  
 It is **_0_** in any other case.
-+ the **NUMBER OF ACTIONS**  (only in the *C* version)  
-an integer which stores the number of actions that the player can perform in that _Scene_.
 + an **ARRAY OF ACTIONS**  
 where each of the _N_ actions contains:
   + the **DESCRIPTION**  
