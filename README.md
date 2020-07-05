@@ -1,15 +1,8 @@
 # INTERACTIVE FICTION
 
 This is a simple game I made in python in which the player has to create and develop his own adventure by making all the decisions.  
-The story will have a different ending every time you play.
-
-Bear in mind I did not implement a way to save or load progress. The story I developed is short and it wouldn't take more than 5 minutes to finish it.
-
-<p>&nbsp;</p>
-
-# Compile and run:
-Run this command to play:
-<pre><code>python3 interactive_fiction.py</pre></code>
+The story will have a different ending every time you play.  
+Feel free to change the story as you like. It is not a difficult operation. The instructions on how to do so are below.
 
 <p>&nbsp;</p>
 
