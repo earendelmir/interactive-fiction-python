@@ -11,16 +11,8 @@ Check out the [C version](https://github.com/earendelmir/interactive-fiction-c) 
 # How to play:
 The following is an example of a scene you will find in the game:
 
-*****
-*__OUTSIDE THE SALOON__*  
-You finally reached the town.<br>
-You are just outside the saloon and you hear whispers coming from the alley on your right.
-
-**1.** _enter the saloon_
-**2.** _check the alley_
-__>__
-*****
-+ Choose one of the possible actions listed above to progress in the story.
+![alt text](demo.png "Game Demo")
++ Choose one of the possible actions listed above
 + Type its number
 + Press enter
 + Repeat
