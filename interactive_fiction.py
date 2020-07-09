@@ -1,3 +1,7 @@
+#
+#  INTERACTIVE FICTION by Eärendelmir
+#  https://github.com/earendelmir
+#
 from os import system
 
 # to change in "cls" if running on Windows
