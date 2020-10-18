@@ -73,7 +73,7 @@ def nextScene(scenes, newID, currID):
 
 # This function prints the end credits once the game is completed
 def myCredits():
-	print("\nhttps://github.com/fyrdracan", end="\n\n")
+	print("\nhttps://github.com/earendelmir", end="\n\n")
 	print("This is just a demo story. You can create your own by following the instructions in the README.md file.", end="\n\n")
 
 
