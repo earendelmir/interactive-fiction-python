@@ -35,7 +35,7 @@ an integer which will be **_ANYTHING BUT 0_** if by reaching that _Scene_ the pl
 It is **_0_** in any other case.
 + an **ARRAY OF ACTIONS**<br>
 where each of the _N_ actions contains:
-  + the **DESCRIPTION**<br>
+  + the **PROMPT**<br>
 	a string that explains the effect of that action.
   + the **CONSEQUENCE**<br>
 	the **ID** of whichever _Scene_ follows the current one if the player chooses this action.
