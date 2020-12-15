@@ -31,8 +31,8 @@ a string that will be printed right above the
 + **DESCRIPTION**<br>
 another string which explains what the character is doing and what (s)he sees around him/her.
 + the **GAME STATUS**<br>
-an integer which will be **_ANYTHING BUT 0_** if by reaching that _Scene_ the player completes (or looses) the game.<br>
-It is **_0_** in any other case.
+a boolean value which will be **_TRUE_** if by reaching that _Scene_ the player completes (or looses) the game.<br>
+It is **_FALSE_** in any other case.
 + an **ARRAY OF ACTIONS**<br>
 where each of the _N_ actions contains:
   + the **PROMPT**<br>
